@@ -1,0 +1,7 @@
+.cards {
+	margin-top: 30px;
+}
+
+.cards .card .card-img img{
+	max-width: 300px;
+}

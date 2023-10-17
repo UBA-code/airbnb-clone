@@ -5,6 +5,10 @@
 	list-style: none;
 }
 
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
 .main-container {
 	padding: 0 20px;
 }

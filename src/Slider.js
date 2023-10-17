@@ -13,7 +13,12 @@ export default function Slider({ imgs }) {
 					resolve();
 				}, 500)
 			})
-				.then(res => setIndex((i) => i + 1 < imgs.length ? i + 1 : 0))
+				.then(res => {
+					setIndex((i) => i + 1 < imgs.length ? i + 1 : 0)
+					return (new Promise(res => {
+						setTimeout(res, 100);
+					}))
+				})
 				.then(res => setName('show'))
 		}, 5000);
 	}, [index])
