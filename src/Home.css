@@ -1,0 +1,8 @@
+.home-container .first-gallery img{
+	width: 100%;
+}
+
+.home-container .first-gallery{
+	overflow: hidden;
+	margin-top: 40px;
+}

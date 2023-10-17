@@ -4,3 +4,13 @@
 	text-decoration: none;
 	list-style: none;
 }
+
+.main-container {
+	padding: 0 20px;
+}
+
+@media screen and (min-width: 768px) {
+	.main-container {
+		padding: 0 100px;
+	}
+}
