@@ -1,5 +1,5 @@
 import logo from './imgs/logo.svg'
-import navStyle from './Nav.css'
+import './Nav.css'
 
 function Nav() {
 	return (
