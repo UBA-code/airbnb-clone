@@ -1,7 +1,79 @@
-.cards {
-	margin-top: 30px;
+.cards-container {
+	overflow-x: auto;
+	margin-bottom: 40px;
 }
 
-.cards .card .card-img img{
-	max-width: 300px;
+.cards {
+	margin-top: 30px;
+	display: inline-flex;
+	justify-content: center;
+}
+
+.cards .card {
+	width: 270px;
+	margin-right: 25px;
+}
+
+.cards .card .card-img {
+	position: relative;
+}
+
+.cards .card .card-img .img{
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	max-width: 350px;
+	height: 350px;
+	border-radius: 9px;
+}
+
+.cards .card .card-img .item-status
+{
+	position: absolute;
+	font-size: 16px;
+	font-weight: 400;
+	top: 10px;
+	left: 10px;
+	padding: 5px 10px;
+	background-color: #FFF;
+	border-radius: 2px;
+	color: #222;
+}
+
+.cards .card .rating-box {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 120px;
+}
+
+.cards .card .rating-box .rating{
+	font-size: 18px;
+	font-weight: 200;
+}
+
+.cards .card .rating-box .feedback-count,
+.cards .card .rating-box .location-dot,
+.cards .card .rating-box .location{
+	color: #918E9B;
+	font-weight: 200;
+	font-size: 18px;
+}
+
+.cards .card .title {
+	font-size: 18px;
+	font-weight: 200;
+	padding: 10px 0;
+}
+
+.cards .card .price-box {
+	font-size: 18px;
+}
+
+.cards .card .price-box .price{
+	font-weight: 600;
+}
+
+.cards .card .price-box {
+	font-weight: 200;
 }
