@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/%7Brepo-name%7D/static/css/main.f41b1d3a.css",
+    "main.js": "/%7Brepo-name%7D/static/js/main.922700e2.js",
+    "static/media/bike.jpeg": "/%7Brepo-name%7D/static/media/bike.4f5a7e1d7058ce574381.jpeg",
+    "static/media/3.png": "/%7Brepo-name%7D/static/media/3.68af1f1212198f348d0c.png",
+    "static/media/9.png": "/%7Brepo-name%7D/static/media/9.bf2eb119831bf53ab847.png",
+    "static/media/4.png": "/%7Brepo-name%7D/static/media/4.47a08f21b98acbe7167e.png",
+    "static/media/group.png": "/%7Brepo-name%7D/static/media/group.36150d18a1c92a116367.png",
+    "static/media/7.png": "/%7Brepo-name%7D/static/media/7.c1b5718458d255270111.png",
+    "static/media/6.png": "/%7Brepo-name%7D/static/media/6.dff0fe9605e558a80f11.png",
+    "static/media/2.png": "/%7Brepo-name%7D/static/media/2.c426d96f25104e59611d.png",
+    "static/media/swimer.png": "/%7Brepo-name%7D/static/media/swimer.f4f7e94c0628d1a97180.png",
+    "static/media/8.png": "/%7Brepo-name%7D/static/media/8.545ed513e8a255d6c54d.png",
+    "static/media/5.png": "/%7Brepo-name%7D/static/media/5.27e244decb7b260cbc37.png",
+    "static/media/1.jpeg": "/%7Brepo-name%7D/static/media/1.f532d6fa6898b270f3f9.jpeg",
+    "static/media/prince.jpeg": "/%7Brepo-name%7D/static/media/prince.f532d6fa6898b270f3f9.jpeg",
+    "static/media/logo.svg": "/%7Brepo-name%7D/static/media/logo.b28cf7f017befbd331c4020b8002efbd.svg",
+    "static/media/starIcon.svg": "/%7Brepo-name%7D/static/media/starIcon.3cbc4b7161424f085abe71206416b670.svg",
+    "index.html": "/%7Brepo-name%7D/index.html",
+    "main.f41b1d3a.css.map": "/%7Brepo-name%7D/static/css/main.f41b1d3a.css.map",
+    "main.922700e2.js.map": "/%7Brepo-name%7D/static/js/main.922700e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41b1d3a.css",
+    "static/js/main.922700e2.js"
+  ]
+}
